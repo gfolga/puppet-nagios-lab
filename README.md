@@ -15,3 +15,4 @@ rpm -ivh https://yum.puppetlabs.com/el/6/products/x86_64/puppetlabs-release-6-7.
 
 yum install -y puppet puppet-server puppetdb puppet-dashboard puppetdb-terminus
 
+Reference: http://folgaizer.wordpress.com/2014/02/06/automate-nagios-configuration-with-puppet/
