@@ -18,3 +18,4 @@ yum install -y puppet puppet-server puppetdb puppet-dashboard puppetdb-terminus
 Reference: http://folgaizer.wordpress.com/2014/02/06/automate-nagios-configuration-with-puppet/
 
 .
+.
